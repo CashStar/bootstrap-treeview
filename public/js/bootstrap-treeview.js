@@ -612,6 +612,10 @@
 				});
 			}
 
+			if (node.additionalClasses) {
+				treeItem.addClass(node.additionalClasses.join(' '));
+			}
+
 			// Add item to the tree
 			_this.$wrapper.append(treeItem);
 
