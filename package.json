@@ -1,22 +1,22 @@
 {
-  "name": "bootstrap-treeview",
-  "description": "Tree View for Twitter Bootstrap",
-  "version": "1.2.0",
+  "name": "cstar-bootstrap-treeview",
+  "description": "CashStar forked Tree View for Twitter Bootstrap",
+  "version": "cstar-0.1.2",
   "homepage": "https://github.com/jonmiles/bootstrap-treeview",
   "author": {
     "name": "Jonathan Miles"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonmiles/bootstrap-treeview.git"
+    "url": "git://github.com/CashStar/bootstrap-treeview.git"
   },
   "bugs": {
-    "url": "https://github.com/jonmiles/bootstrap-treeview/issues"
+    "url": "https://github.com/CashStar/bootstrap-treeview/issues"
   },
   "licenses": [
     {
       "type": "Apache",
-      "url": "https://github.com/jonmiles/bootstrap-treeview/blob/master/LICENSE"
+      "url": "UNLICENSED"
     }
   ],
   "main": "dist/bootstrap-treeview.min.js",
