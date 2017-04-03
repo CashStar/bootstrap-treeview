@@ -1,7 +1,7 @@
 {
   "name": "cstar-bootstrap-treeview",
   "description": "CashStar forked Tree View for Twitter Bootstrap",
-  "version": "cstar-0.1.2",
+  "version": "0.1.2",
   "homepage": "https://github.com/jonmiles/bootstrap-treeview",
   "author": {
     "name": "Jonathan Miles"
