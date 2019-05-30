@@ -21,7 +21,7 @@
   ],
   "main": "dist/bootstrap-treeview.min.js",
   "scripts": {
-    "install": "bower install",
+    "install": "bower install --force",
     "start": "node app",
     "test": "grunt test"
   },
